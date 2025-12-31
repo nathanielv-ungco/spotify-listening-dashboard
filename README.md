@@ -46,7 +46,8 @@ It includes:
 
 The page is designed so that someone unfamiliar with the data can immediately see the big picture, then drill deeper by clicking months, artists, or visuals. Customized tooltips on this page help explain peaks, shares, and key drivers behind totals.
 
----
+<img width="1407" height="791" alt="01 Overview Page - Spotify Dashboard" src="https://github.com/user-attachments/assets/7f001327-84c3-4c45-b57c-cecd21af9a08" />
+
 
 ### 2) Patterns Page
 This page focuses on listening habits rather than totals.
@@ -59,6 +60,7 @@ It includes:
 
 This page helps reveal routine behavior, such as peak evening times or certain days that consistently dominate listening time. The tooltips on this page provide additional insight such as contribution shares and supporting details that are not directly visible in the charts.
 
+<img width="1411" height="791" alt="02 Patterns Page - Spotify Dashboard" src="https://github.com/user-attachments/assets/45ea4894-188c-43ac-98d1-e8480a45d6a2" />
 ---
 
 ## Repository Contents
