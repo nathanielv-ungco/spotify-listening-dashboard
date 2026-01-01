@@ -98,7 +98,7 @@ This page helps reveal routine behavior, such as peak evening times or certain d
 ## Using or Refreshing with Your Own Data
 If you want to build something similar using your own Spotify export:
 1. Download your Spotify account data export (JSON).
-2. Place the JSON files in a local `data/raw/` folder.
+2. Place the JSON files in a local `Streaming History Data/` folder.
 3. Open the `.pbix` file in `powerbi/`.
 4. Update the data source path if Power BI asks.
 5. Refresh the report and verify updated totals and date coverage.
