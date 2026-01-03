@@ -61,6 +61,11 @@ It includes:
 This page helps reveal routine behavior, such as peak evening times or certain days that consistently dominate listening time. The tooltips on this page provide additional insight such as contribution shares and supporting details that are not directly visible in the charts.
 
 <img width="1411" height="791" alt="02 Patterns Page - Spotify Dashboard" src="https://github.com/user-attachments/assets/45ea4894-188c-43ac-98d1-e8480a45d6a2" />
+
+
+### 3) Customized Tooltips
+All charts in the dashboard (across both pages) use customized tooltips to provide additional context without cluttering the visuals. These tooltips update dynamically based on the current filters and selections. To view the tooltips, hover over the charts. Screenshot previews of the tooltips can be found in the `assets/` folder.
+
 ---
 
 ## Repository Contents
