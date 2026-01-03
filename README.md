@@ -1,4 +1,4 @@
-# Spotify Listening Behavior Dashboard
+# Spotify Listening Behavior Analysis Dashboard
 
 ## Overview
 This project is a Power BI dashboard built using my Spotify listening history from my Spotify account data export (JSON). I created this as an end-of-year project inspired by Spotify Wrapped, but instead of just looking at static yearly summaries, I wanted something I could freely explore, filter, and analyze in more detail.
