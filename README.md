@@ -75,20 +75,8 @@ All charts in the dashboard (across both pages) use customized tooltips to provi
 - `docs/Project Background.pdf`  
   Full background, motivation, reflections, design discussion, limitations, and planned improvements.
 
-- `docs/etl_notes.md`  
-  Summary of Power Query data preparation, transformation steps, cleaning logic, and derived fields.
-
-- `docs/data_dictionary.md`  
-  Definitions of key fields used in the model.
-
-- `docs/measures_catalog.md`  
-  List of key DAX measures with explanations of what each one represents.
-
-- `docs/dashboard_guide.md`  
-  Simple guide on how to navigate, filter, and interact with the dashboard.
-
-- `CHANGELOG.md`  
-  Notes on project updates and revisions during development.
+- `assets/`  
+  Contains the screenshots of the pages and tooltips of the dashboard.
 
 ---
 
